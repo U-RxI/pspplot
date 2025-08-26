@@ -1,3 +1,4 @@
+from . import pspplot  # this loads pspplot.py
 from .pspplot import (
     RXplot,
     PlotPolar,
