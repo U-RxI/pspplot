@@ -552,7 +552,7 @@ myplot2.axes.set_xlabel('hejdff')
 #myplot2.add_phasor(value=P2R(6, 180), color='Red', name='I1',  polar=False)
 #myplot2.add_point(value=P2R(10, 30), color='Red', label='I1')
 #myplot2.add_line(range(4), lambda x : x*2)
-#myplot2.add_angle(radius=1, centX=0, centY=0, startangle=10, angle=230, text = '$\Theta$')
+#myplot2.add_angle(radius=1, centX=0, centY=0, startangle=10, angle=230, text = '$\\Theta$')
 #myplot2.add_limit(8, 85, text='test', polar = False)
 myplot2.show()
 
@@ -566,9 +566,4 @@ myplot3.show()
 '''
 # Good source for fft
 # https://pysdr.org/content/frequency_domain.html
-
-# style exmaples:
-# C:\Users\ASGRM\Anaconda3\envs\py10\Lib\site-packages\matplotlib\mpl-data\stylelib
-# https://github.com/jeremyworsfold/mplstyles/blob/main/mplstyles/notebook.mplstyle
-# https://matplotlib.org/stable/users/explain/customizing.html
 
