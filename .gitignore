@@ -8,6 +8,8 @@ wheels/
 
 # Pycharm
 .idea/
+# Ignore workspace settings
+.idea/workspace.xml
 
 # Virtual environments
 .venv
