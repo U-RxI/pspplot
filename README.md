@@ -1,5 +1,7 @@
 # pspplot
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 pspplot is a Python library for creating power system protection plots using matplotlib.
 
 
